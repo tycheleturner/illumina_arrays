@@ -1,6 +1,6 @@
-# Tychele N. Turner, Ph.D.
-# 08/02/2016
-# Deciphering the top strand of Illumina arrays to get SNPs all on the + strand 
+#### Tychele N. Turner, Ph.D.
+#### 08/02/2016
+##### Deciphering the top strand of Illumina arrays to get SNPs all on the + strand 
 
 Background: All Illumina arrays have a nomenclature referring to the top and bottom strand for each SNP. This nomenclature often confuses people and the full advantage of having genome-wide SNPs is missed out. 
 
